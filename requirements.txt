@@ -1,0 +1,8 @@
+streamlit
+langchain
+langchain-text-splitters
+langchain-chroma
+langchain-openai
+dotenv
+langchain-community
+pypdf
