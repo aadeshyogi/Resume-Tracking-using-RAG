@@ -36,11 +36,3 @@ A simple app that lets you search resumes using natural language instead of keyw
 3. Converts chunks into embeddings and stores them in ChromaDB
 4. On a query, retrieves the most relevant chunks using MMR search
 5. Sends the retrieved context to GPT-4o-mini, which gives a grounded answer using only that context
-
-## Note
-
-Don't upload your `.env` file or `Resumes` folder to GitHub — add them to `.gitignore`.
-
-## Credits
-
-Built during a learning project at Innomatics Research Labs, under the guidance of Nagaraju Ekkirala and Mohammad Afroz.
